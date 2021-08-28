@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#app {
+    width: 100%;
+    background-color: aqua;
+}
+
+#game {
+    width: 100%;
+    background-color: cornflowerblue;
+}
+
+#chatbot {
+    width: 100%;
+    background-color: chartreuse;
+}
